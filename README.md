@@ -27,7 +27,7 @@ Start by writing all of your HTML. You will need a `<header>`, followed by a `<m
 
 	>> See All 
 
-For the remainder of the build, follow the recordings. As you work through this Lab, make sure to validate your HTML and to make commits whenever you reach a milestone in your work. 
+For the remainder of the build, follow the recordings. As you work through this build, make sure to validate your HTML and to make commits whenever you reach a milestone in your work. 
 
 ## Submission Requirements
 You must have at least **2 commits** of your build.
