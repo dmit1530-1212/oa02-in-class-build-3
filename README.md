@@ -6,6 +6,29 @@ As this is a mentored build, you will be guided through the majority of the buil
 
 This is to be a **responsive design**.
 
+## The Build Methodology
+Start by writing all of your HTML. You will need a `<header>`, followed by a `<main>`. Inside of your `<header>`, you'll need a first-level heading, your monkey logo, and a `<nav>` with three drop-down menus. These menus should be structured as follows: 
+
+	> Products
+
+	>> Featured
+
+	>> Popgrips
+
+	>> Accessories
+
+	> Customize
+
+	>> Create For You
+
+	>> Create For Business
+
+	> Sale
+
+	>> See All 
+
+For the remainder of the build, follow the recordings. As you work through this Lab, make sure to validate your HTML and to make commits whenever you reach a milestone in your work. 
+
 ## Submission Requirements
 You must have at least **2 commits** of your build.
 
