@@ -7,7 +7,7 @@ As this is a mentored build, you will be guided through the majority of the buil
 This is to be a **responsive design**.
 
 ## The Build Methodology
-Start by writing all of your HTML. You will need a `<header>`, followed by a `<main>`. Inside of your `<header>`, you'll need a first-level heading, your monkey logo, and a `<nav>` with three drop-down menus. These menus should be structured as follows: 
+Start by writing all of your HTML. You will need a `<header>`, followed by a `<main>`. Inside of your `<header>`, you will need a first-level heading, your monkey logo, and a `<nav>` with three drop-down menus. These menus should be structured as follows: 
 
 	> Products
 
