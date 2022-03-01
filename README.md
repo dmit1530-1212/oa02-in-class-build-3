@@ -1,5 +1,5 @@
 # In-class Build #3 - Toggle Navigation
-This is a mentored build, thus follow the instructor's instructions/questions during the class block. You **MUST** be present in class to get a grade for this assignment. Being in attendance does not gaurantee you a grade for this assignment.
+This is a mentored build, thus follow the instructor's instructions/questions during the class block. You **MUST** be present in both classes to get a grade for this assignment. Being in attendance does not gaurantee you a grade for this assignment.
 
 ## Instructions
 As this is a mentored build, you will be guided through the majority of the build. You will be prompted for suggestions, which may or may not work, and guided to a _correct_ solution for this build. You are also responsible for completing the build once your instructor has guided you to a point in the build where you can apply the concepts covered so far. This build may take more than 1 class to complete.
@@ -27,12 +27,12 @@ Start by writing all of your HTML. You will need a `<header>`, followed by a `<m
 
 	>> See All 
 
-For the remainder of the build, follow the recordings. As you work through this build, make sure to validate your HTML and to make commits whenever you reach a milestone in your work. 
+For the remainder of the build, follow the recordings. As you work through this build, make sure to validate your HTML and to make commits whenever you reach a milestone in your work (i.e., after each web page is coded and when major sections of the CSS file are coded). 
 
 ## Submission Requirements
-You must have at least **2 commits** of your build.
+You must have at least **4 commits** (at least 2/day) of your build .
 
-**You must be present in class in order to receive a grade for this assessment.  Labs that do not follow best naming practices, or do not validate, will receive a 0. Late submissions will not be accepted!**
+**You must be present in BOTH classes in order to receive a grade for this assessment. Builds that do not follow best naming practices, or do not validate, will receive a 0. Late submissions will not be accepted!**
 
 **You must be present, and stay, in class in order to receive a grade for this assessment.**
 
