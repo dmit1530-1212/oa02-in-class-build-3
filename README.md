@@ -40,7 +40,7 @@ You must have at least **4 commits** (at least 2/day) of your build .
 
 Zip up your file and submit it to Moodle (for a backup submission) and commit your project to GitHub Classroom.
 
->> You may delete the **build-03-screenshots** folder prior to your last commit.
+>> You should delete the **build-03-screenshots** folder in your local repository prior to your last commit.
 
 ## Marking Key
 | **Marks** | **Criteria** |
