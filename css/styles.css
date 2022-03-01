@@ -1,9 +1,23 @@
 /*
 COLOUR PALETTE
-
 Pink    #E64F85
 Yellow  #f5cf54
 Green   #9CC05D
+
+Linear Gradients 
+  body:       rgb(255,105,180), rgb(255,186,0)    OR  #ff6984, #ffba00
+  products:   rgb(153,235,255), rgb(255,173,106)      #99ebff, #ffad6a
+  customize:  rgb(169,255,183), rgb(255,152,224)      #a9ffb7, #ff98e0
+  sale:       rgb(225,255,116), rgb(96,68,255)        #ffff74, #6044ff
+
+Popsockets - first letter:  rgb(155,105,180)      OR  #9b69b4;
+           - main color:    #00263e;
+
+Menu colours: 
+  initial:    #00263e;
+  hover:      #f89d70;
+
+Heading colour: #fff;
 */
 
 /* UNIVERSAL STYLES */
@@ -19,3 +33,6 @@ Green   #9CC05D
 
 
 /* LARGER VIEWS */
+/* 1st breakpoint = 950px */
+
+/* 2nd breakpoint (fixed-width) = 1300px */
